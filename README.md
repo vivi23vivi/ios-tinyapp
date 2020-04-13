@@ -2,7 +2,7 @@
 
 <a name="UgzsB"></a>
 ## 功能介绍
-本 Demo 主要配合官网 [文档](https://help.aliyun.com/document_detail/67444.html?spm=a2c4g.11186623.6.1097.72a125eaaxoaNF)，介绍 iOS 小程序能力，功能如下：
+本 Demo 主要配合官网 [小程序](https://help.aliyun.com/document_detail/67444.html?spm=a2c4g.11186623.6.1097.72a125eaaxoaNF)，介绍 iOS 小程序能力，功能如下：
 
 - 加载小程序容器
 - 自定义 JsApi 和 Plugin
